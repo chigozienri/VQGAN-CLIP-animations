@@ -23,3 +23,9 @@ Click the button below to run the experimental audio-driven notebook in Google C
      <li><a href="https://twitter.com/chigozienri/status/1420886097316491266">Chigozie Nri</a></li>
      
 </ul>
+
+<h2>Donation Link</h2>
+
+If you want, you can donate to support me at <a href="https://ko-fi.com/chigozie">ko-fi</a>. No pressure (but I'd love to know if you create a squillion-dollar NFT, or just had fun!).
+
+<a href='https://ko-fi.com/chigozie' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
