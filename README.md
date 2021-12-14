@@ -1,8 +1,17 @@
 <h1>AI image generation/animation</h1>
+<h2>Main notebook</h2>
 Click the button below to run the notebook in Google Colab<br />
 <a href="https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg"
-     alt="Open in Colab"
+     alt="Open main notebook in Colab"
+/>
+</a>
+
+<h2>(Experimental) audio-driven notebook</h2>
+Click the button below to run the experimental audio-driven notebook in Google Colab<br />
+<a href="https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/Music-driven-VQGAN-animations.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg"
+     alt="Open music-driven notebook in Colab"
 />
 </a>
 
