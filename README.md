@@ -18,11 +18,14 @@ Click the button below to run the experimental audio-driven notebook in Google C
 <h2>Interesting/Notable Uses</h2>
 <ul>
      <li><a href="https://www.instagram.com/p/CVzEuB6lJjR/">Glitch Black</a></li>
-     <li><a href="https://www.youtube.com/channel/UCToztRy9FSTIhEen_1x4FAw">Dirtmill</a><br /><a href="https://www.youtube.com/embed/ERpolsQ0MpE"><img src="https://img.youtube.com/vi/ERpolsQ0MpE/0.jpg" /></a></li>
+     <li><a href="https://www.youtube.com/channel/UCToztRy9FSTIhEen_1x4FAw">Dirtmill</a><br /><a href="https://www.youtube.com/embed/ERpolsQ0MpE"><img src="https://img.youtube.com/vi/ERpolsQ0MpE/0.jpg" /></a><br /><a href="https://www.youtube.com/embed/S2FafOSZJi0">Example of the audio-driven notebook<br /><img src="https://img.youtube.com/vi/S2FafOSZJi0/0.jpg" /></a></li>
      <li><a href="https://twitter.com/i/status/1449777456353734667">Pixel Pump</a></li>
      <li><a href="https://twitter.com/chigozienri/status/1420886097316491266">Chigozie Nri</a></li>
      
 </ul>
+
+<h2>Helper spreadsheet</h2>
+<a href="https://twitter.com/EphemeralInc">@EphemeralInc</a> made a useful <a href="https://docs.google.com/spreadsheets/d/1sJ0PMHUPIYkS7LSxhzTThEP7rZ5CFonz-dBxqe8F2uc/">spreadsheet</a> to help construct large keyframe strings.
 
 <h2>Donation Link</h2>
 
