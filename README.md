@@ -7,13 +7,13 @@ Click the button below to run the notebook in Google Colab<br />
 />
 </a>
 
-<h2>(Experimental) audio-driven notebook</h2>
-Click the button below to run the experimental audio-driven notebook in Google Colab<br />
-<a href="https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/Music-driven-VQGAN-animations.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg"
-     alt="Open music-driven notebook in Colab"
-/>
-</a>
+<h2>Helper tools</h2>
+Two helper tools for this notebook are available:<br />
+<ul>
+<li><a href="https://keyframe-string-generator.glitch.me/">Keyframe string generator</a>, for creating and editing animation curves, including bézier easing</li>
+<li><a href="https://audio-keyframe-generator.glitch.me/">Audio keyframe generator</a>, for creating animation curves from audio files</li>
+</ul>
+
 
 <h2>Interesting/Notable Uses</h2>
 <ul>
