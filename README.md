@@ -1,4 +1,5 @@
 <h1>AI image generation/animation</h1>
+<img src="https://img.shields.io/maintenance/no/2023" alt="A badge showing that this repo is unmaintained as of 2023">
 <h2>Main notebook</h2>
 Click the button below to run the notebook in Google Colab<br />
 <a href="https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb">
